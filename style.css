@@ -2,3 +2,6 @@ body {
   background: yellow;
   color: white;
 }
+body {
+  padding: 20px;
+}
